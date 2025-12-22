@@ -21,8 +21,9 @@ You can run it directly:
 ```bash
 ./target/release/fhash ./testFile.txt
 ```
+Output:
 ```text
-Output: a591a6d40bf420404a011733cfb7b190d62c65bf0bcda32b57b277d9ad9f146e ./testFile.txt
+a591a6d40bf420404a011733cfb7b190d62c65bf0bcda32b57b277d9ad9f146e ./testFile.txt
 ```
 ### Hash multiple files
 ```bash
